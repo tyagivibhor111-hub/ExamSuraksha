@@ -11,6 +11,7 @@ Monitors audio and video streams live, picks up on behavioral cues, and flags an
 
 🔴 Tutor Agent
 Once the exam wraps up, this agent looks at performance data and generates a custom learning path. It suggests resources tailored to each student’s weak spots and adapts the content as they progress.
+
 🔴 Communication Agent
 Handles all reporting—incident summaries, automated emails, and session digests. It can push notifications via API or email, keeping instructors and admins in the loop without extra manual work.
 
