@@ -6,15 +6,15 @@ ExamSuraksha is a Python-based multi-agent system built to handle online exam in
 
 What It Does
 
-Proctor Agent
+🔴 Proctor Agent
 Monitors audio and video streams live, picks up on behavioral cues, and flags anything unusual. It works alongside Gemini LLM to make sense of patterns and context, not just raw alerts.
 
-Tutor Agent
+🔴 Tutor Agent
 Once the exam wraps up, this agent looks at performance data and generates a custom learning path. It suggests resources tailored to each student’s weak spots and adapts the content as they progress.
-Communication Agent
+🔴 Communication Agent
 Handles all reporting—incident summaries, automated emails, and session digests. It can push notifications via API or email, keeping instructors and admins in the loop without extra manual work.
 
-Additional Capabilities
+🔴 Additional Capabilities
 
 · Session tracking with persistent student flags across multiple exams
 · Live Streamlit dashboard for at-a-glance observability
