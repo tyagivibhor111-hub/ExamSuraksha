@@ -140,7 +140,6 @@ If you’d like to contribute, here’s how:
 
 ---
 
-License
 
 Distributed under the MIT License. See the LICENSE file for details.
 
