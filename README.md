@@ -3,7 +3,6 @@ ExamSuraksha: AI-Driven Online Exam Proctoring & Remedial Support
 ExamSuraksha is a Python-based multi-agent system built to handle online exam integrity and post-exam learning support. Instead of just watching candidates, it actively interprets behavior, detects irregularities, and follows up with personalized help—all in real time.
 
 ---
-
 What It Does?
 
 🔴 Proctor Agent
